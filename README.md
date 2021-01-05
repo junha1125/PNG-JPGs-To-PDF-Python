@@ -4,8 +4,8 @@ PNG,JPG-To-PDF Python Code
 ## Precaution
 1. The number of images must be 100 less.
 2. The index must be written at the end of the file name.
-  - Ex) firstimage1.png, firstimage2.png, firstimage3.png  .... firstimage99.png
-  - Ex) img1.jpg, img2.jpg, img3.jpg  .... img80.jpg
+    - Ex) firstimage1.png, firstimage2.png, firstimage3.png  .... firstimage99.png
+    - Ex) img1.jpg, img2.jpg, img3.jpg  .... img80.jpg
 
 ## How to use
 1. Run python code "png2pdf.py" with VScode

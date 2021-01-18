@@ -9,12 +9,12 @@ PNG,JPG-To-PDF Python Code
     - Ex) img1.jpg, img2.jpg, img3.jpg  .... img80.jpg
 
 ## How to use
-1. Run python code "png2pdf.py" with VScode
+1. Double click pngs2pdf.exe file. (Run python code "png2pdf.py" with VScode)
 2. Click "Select First File"
-3. Check print output
+3. Check print output (in CMD-colsole (or VScode terminal))
 4. Click "Convert to PDF"
 5. Input PDF file name
-6. Check print ouput
+6. Check print ouput (in CMD-colsole (or VScode terminal))
 
 ![img](https://github.com/junha1125/Imgaes_For_GitBlog/blob/master/2021-1/pngtopdf.png?raw=true)
 

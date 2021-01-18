@@ -9,7 +9,7 @@ PNG,JPG-To-PDF Python Code
     - Ex) img1.jpg, img2.jpg, img3.jpg  .... img80.jpg
 
 ## How to use
-0. just download ["pngs2pdf.exe"](https://github.com/junha1125/PNG-JPGs-To-PDF-Python/raw/main/pngs2pdf.exe)
+0. Just download ["pngs2pdf.exe"](https://github.com/junha1125/PNG-JPGs-To-PDF-Python/raw/main/pngs2pdf.exe)
 1. Double click pngs2pdf.exe file. (Run python code "png2pdf.py" with VScode)
 2. Click "Select First File"
 3. Check print output (in CMD-colsole (or VScode terminal))
